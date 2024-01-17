@@ -1,1 +1,1 @@
-# cosmetic-frontend
+# Фронтенд
